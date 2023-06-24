@@ -40,7 +40,7 @@ class AbstractMenu(ABC):
 
             for index, item in enumerate(self.menu_items):
                 if item.isVisible:
-                    print(f"{index}. {self.item.description}")
+                    print(f"{index}. {item.description}")
 
             inp = input("Select Option: ")
             try:

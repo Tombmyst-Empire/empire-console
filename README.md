@@ -1,4 +1,4 @@
-![](doc/header.png)
+![](doc/_static/header.png)
 
 <div style="text-align: center">
     <img src="https://forthebadge.com/images/badges/made-with-python.svg">
