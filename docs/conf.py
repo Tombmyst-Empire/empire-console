@@ -7,14 +7,20 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'empire-console'
-copyright = '2023, Yann Tremblay'
+copyright = 'Y\'en a pas de copyrite, Yann Tremblay'
 author = 'Yann Tremblay'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+    'sphinx.ext.autodoc',
+    'sphinx.ext.autosectionlabel',
+    'sphinx.ext.doctest',
+    'sphinx.ext.intersphinx',
+    'sphinx.ext.todo'
+]
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']

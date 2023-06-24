@@ -14,4 +14,4 @@
 
 ---
 
-<a href="build/html/index.html">Documentation</a>
+<a href="https://tombmyst-empire.github.io/empire-console/html/index.html">Documentation</a>
