@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'empire-console'
-copyright = "Y'en a pas de copyrite, Yann Tremblay"
+copyright = '2023, Yann Tremblay'
 author = 'Yann Tremblay'
 release = '1.0'
 
@@ -17,7 +17,7 @@ release = '1.0'
 extensions = []
 
 templates_path = ['_templates']
-exclude_patterns = []
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 
 
