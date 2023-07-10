@@ -14,7 +14,7 @@ from prompt_toolkit.styles import BaseStyle
 from prompt_toolkit.validation import Validator
 from prompt_toolkit.widgets import Box, Dialog, Label, ProgressBar, TextArea
 
-from econsole.console_menu_builder import build_menu
+from econsole.menu_builder import build_menu
 
 
 class ConsoleDialogs:

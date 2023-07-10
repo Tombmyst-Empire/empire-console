@@ -3,3 +3,4 @@ python-console-menu>=1.1.0
 simple-term-menu>=1.6.1
 tabulate>=0.9.0
 empire_commons@https://github.com/Tombmyst-Empire/empire-commons/archive/refs/heads/master.zip
+empire_sphinx_theme@https://github.com/Tombmyst-Empire/empire-sphinx-theme/archive/refs/heads/master.zip

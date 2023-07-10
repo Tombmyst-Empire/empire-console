@@ -10,7 +10,9 @@ Welcome to empire-console's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   usage
+   api
+   test
 
 Indices and tables
 ==================
